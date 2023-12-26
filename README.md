@@ -6,9 +6,9 @@ I'm a skilled web developer based in Fresno, CA, with a strong foundation in var
 
 📞 Contact: 559-818-0467  
 📧 Email: spragginsdesigns@gmail.com  
-🌐 Portfolio: [spragginsdesigns.com](https://spragginsdesigns.com)  
+🌐 Portfolio: [spragginsdesigns.com](https://spragginsdesigns.github.io/WebDev-Portfolio)  
 👨‍💻 GitHub: [github.com/spragginsdesigns](https://github.com/spragginsdesigns)  
-🎨 CodePen: [codepen.io/agtshadow](https://codepen.io/agtshadow)  
+🎨 CodePen: [codepen.io/spragginsdesigns](https://codepen.io/agtshadow)  
 💼 LinkedIn: [linkedin.com/in/spragginsdesigns](https://linkedin.com/in/spragginsdesigns)  
 
 ## Professional Experience
