@@ -1,60 +1,63 @@
 # Hi there! 👋 I'm Austin Spraggins
 
 ## About Me
+I'm a passionate web developer based in Fresno, CA, specializing in crafting user-focused, scalable, and high-quality web solutions. With a strong foundation in various programming languages, technologies, and frameworks, I prioritize responsive design and implement top-notch security practices. Committed to continuous learning, I stay current with the latest industry trends to ensure my work remains at the forefront of technological innovation.
 
-I'm a skilled web developer based in Fresno, CA, with a strong foundation in various programming languages, technologies, and frameworks. Prioritizing user-focused, scalable, and high-quality web solutions, I excel in responsive design and implement top-notch security practices. Always striving to improve, I stay current with the latest industry trends.
+- 📞 **Contact**: 559-818-0467
+- 📧 **Email**: [spragginsdesigns@gmail.com](mailto:spragginsdesigns@gmail.com)
+- 🌐 **Portfolio**: [Austin Spraggins Portfolio Web App](#)
+- 👨‍💻 **GitHub**: [github.com/spragginsdesigns](https://github.com/spragginsdesigns)
+- 🎨 **CodePen**: [codepen.io/spragginsdesigns](https://codepen.io/spragginsdesigns)
+- 💼 **LinkedIn**: [linkedin.com/in/spragginsdesigns](https://linkedin.com/in/spragginsdesigns)
 
-📞 Contact: 559-818-0467  
-📧 Email: spragginsdesigns@gmail.com  
-🌐 Portfolio: [Austin Spraggins Portfolio Web App](https://spragginsdesigns.github.io/WebDev-Portfolio)  
-👨‍💻 GitHub: [github.com/spragginsdesigns](https://github.com/spragginsdesigns)  
-🎨 CodePen: [codepen.io/spragginsdesigns](https://codepen.io/agtshadow)  
-💼 LinkedIn: [linkedin.com/in/spragginsdesigns](https://linkedin.com/in/spragginsdesigns)  
+---
 
 ## Professional Experience
-
-### Web Developer Instructor at BitWise Industries (April 2022 - October 2022)
-
-Conducted introductory courses on web development, design, and computer literacy. Topics covered HTML, CSS3, JavaScript, React, Command Prompts, Computer maintenance, and Windows to Linux administration.
-
-### Junior Web Developer at Effycient (December 2021 - March 2022)
-
-Collaborated with junior and senior developers to deliver beautiful, elegant, responsive, and accessible web pages and apps for clients.
-
-### I.T. Support Specialist at Clovis Community College (February 2021 - December 2021)
-
-Efficiently managed help desk tickets, resolved desktop issues, and provided technical support to students and staff in various team-oriented ways.
-
-### YouTube Content Creator via Google L.L.C. (2019-2020)
-
-Designed, managed, branded, and maintained a successful YouTube channel. Responsibilities included editing, producing, branding, promoting across social media platforms, and creating videos with quality content and SEO optimization.
+- **Web Developer Instructor at BitWise Industries** (April 2022 - October 2022): Led courses in web development, design, and computer literacy, covering a broad range of topics including HTML, CSS3, JavaScript, React, and more.
+- **Junior Web Developer at Effycient** (December 2021 - March 2022): Collaborated on creating elegant, responsive web pages and applications, emphasizing accessibility and aesthetic appeal.
+- **I.T. Support Specialist at Clovis Community College** (February 2021 - December 2021): Managed help desk tickets and provided comprehensive technical support, honing my problem-solving skills in a dynamic environment.
+- **YouTube Content Creator via Google L.L.C.** (2019-2020): Successfully managed a YouTube channel, focusing on design, branding, and SEO optimization.
 
 ## Education
-
-- Clovis Community College (2021)  
-  - **Information Systems: Web Design Associate In Science Degree**
-  - *Grade: 3.92 G.P.A*
-
-- Clovis Community College (2020)  
-  - **Certificate Of Achievement In Information Systems: Web Design**
+- **Clovis Community College** (2021): Associate in Science Degree in Information Systems: Web Design (Grade: 3.92 G.P.A)
+- **Clovis Community College** (2020): Certificate of Achievement in Information Systems: Web Design
 
 ## Skills & Proficiencies
+- **Programming Languages**: HTML5, CSS3, JavaScript, Python, React
+- **Frameworks/Libraries**: NodeJS, NPM, WordPress, jQuery
+- **System Administration**: Proficient in Windows and Linux
+- **Web Development**: Specialized in Cross-Browser Compatibility and Web Performance Optimization
+- **Tools & Technologies**: Version Control (Git), Web Accessibility, CSS Preprocessors, API Integration, Developer Tools
+- **Design & UI/UX**: Strong skills in Graphic Design (Adobe Creative Suite), User Interface Design
+- **Additional Skills**: SEO/Marketing, Mobile App Development, Testing & Debugging, Content Management Systems (CMS), Command Line/Shell
+- **Soft Skills**: Teamwork, Reliability, Strong Communication
 
-- HTML5, CSS3, JavaScript, Python & React
-- NodeJS, NPM, WordPress, jQuery
-- Windows & Linux Administration
-- Cross-Browser Compatibility
-- Web Performance Optimization
-- Version Control / Git
-- Web Accessibility
-- CSS Preprocessors
-- Graphic Design/Adobe Creative Suite
-- API Integration
-- Developer Tools
-- User Interface (U.I.) Design
-- SEO / Marketing
-- Mobile App Development
-- Testing & Debugging
-- Content Management Systems (C.M.S.)
-- Command Line/Shell
-- Teamwork, Reliable & Strong Soft Skills
+---
+
+## 💼 Portfolio Web App
+
+### [My Portfolio]
+![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=spragginsdesigns&repo=WebDev-Portfolio&theme=onedark)
+
+## 📈 GitHub Stats
+
+![Austin Spraggins's GitHub stats](https://github-readme-stats.vercel.app/api?username=spragginsdesigns&show_icons=true&theme=onedark)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=spragginsdesigns&theme=onedark)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spragginsdesigns&theme=onedark)
+
+## 📌 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=onedark)
+
+## 📚 Continuous Learning
+I am dedicated to refining my skills and expanding my knowledge. Currently, I am exploring _(mention any new technology or framework you are learning)_, aiming to integrate it into future projects.
+
+---
+
+Feel free to connect with me here on GitHub or through any of the above platforms. I'm always open to collaborating on interesting projects or discussions about web development and technology trends.
