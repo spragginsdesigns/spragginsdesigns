@@ -56,7 +56,7 @@ I'm a passionate web developer based in Fresno, CA, specializing in crafting use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=onedark)
 
 ## 📚 Continuous Learning
-I am dedicated to refining my skills and expanding my knowledge. Currently, I am exploring _(mention any new technology or framework you are learning)_, aiming to integrate it into future projects.
+I am dedicated to refining my skills and expanding my knowledge. Currently, I am exploring Python and React, aiming to integrate them into future projects.
 
 ---
 
