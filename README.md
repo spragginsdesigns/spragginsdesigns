@@ -13,7 +13,7 @@ I'm a passionate web developer based in Fresno, CA, specializing in crafting use
 ---
 
 ## Professional Experience
-- **Web Developer Instructor at BitWise Industries** (April 2022 - October 2022): Led courses in web development, design, and computer literacy, covering a broad range of topics including HTML, CSS3, JavaScript, React, and more.
+- **Web Developer Instructor at BitWise Industries** (February 2022 - June 2023 2023): Led courses in web development, design, and computer literacy, covering a broad range of topics, including HTML, CSS3, JavaScript, React, and more.
 - **Junior Web Developer at Effycient** (December 2021 - March 2022): Collaborated on creating elegant, responsive web pages and applications, emphasizing accessibility and aesthetic appeal.
 - **I.T. Support Specialist at Clovis Community College** (February 2021 - December 2021): Managed help desk tickets and provided comprehensive technical support, honing my problem-solving skills in a dynamic environment.
 - **YouTube Content Creator via Google L.L.C.** (2019-2020): Successfully managed a YouTube channel, focusing on design, branding, and SEO optimization.
@@ -36,12 +36,8 @@ I'm a passionate web developer based in Fresno, CA, specializing in crafting use
 
 ## 💼 Portfolio Web App
 
-### [My Portfolio]
+### My Portfolio
 ![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=spragginsdesigns&repo=WebDev-Portfolio&theme=onedark)
-
-## 📈 GitHub Stats
-
-![Austin Spraggins's GitHub stats](https://github-readme-stats.vercel.app/api?username=spragginsdesigns&show_icons=true&theme=onedark)
 
 ## 🏆 GitHub Trophies
 
@@ -60,4 +56,4 @@ I am dedicated to refining my skills and expanding my knowledge. Currently, I am
 
 ---
 
-Feel free to connect with me here on GitHub or through any of the above platforms. I'm always open to collaborating on interesting projects or discussions about web development and technology trends.
+Feel free to connect with me here on GitHub or through any of the above platforms. I'm always open to collaborating on interesting projects or discussing web development and technology trends.
