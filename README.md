@@ -4,7 +4,7 @@
 I'm a passionate web developer based in Fresno, CA, specializing in crafting user-focused, scalable, and high-quality web solutions. With a strong foundation in various programming languages, technologies, and frameworks, I prioritize responsive design and implement top-notch security practices. Committed to continuous learning, I stay current with the latest industry trends to ensure my work remains at the forefront of technological innovation.
 
 - 📞 **Contact**: 559-818-0467
-- 📧 **Email**: [spragginsdesigns@gmail.com](mailto:spragginsdesigns@gmail.com)
+- 📧 **Email**: [spragginsdesigns@gmail.com](mailto:austin@spragginsdesigns.xyz)
 - 🌐 **Portfolio**: [Austin Spraggins Portfolio Web App](#)
 - 👨‍💻 **GitHub**: [github.com/spragginsdesigns](https://github.com/spragginsdesigns)
 - 🎨 **CodePen**: [codepen.io/spragginsdesigns](https://codepen.io/spragginsdesigns)
