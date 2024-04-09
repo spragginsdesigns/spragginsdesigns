@@ -13,6 +13,8 @@ I'm a passionate web developer based in Fresno, CA, specializing in crafting use
 ---
 
 ## Professional Experience
+- **Web Developer and Marketing Specialist at Gelateria Del Centro** (March 2024 - Present): As a Full-Stack Developer at Gelateria Del Centro, I oversee our website's entire lifecycle, from design to deployment. I craft the front end with React, creating dynamic UIs and styling them with CSS. My tools include Figma, Sketch, and Photoshop for design and Visual Studio Code for coding. I also manage server-side operations to ensure robust SPA performance.
+Besides development, I lead our digital marketing, maintaining our social media and food delivery platforms to grow our brand and market presence, merging technical skills with marketing strategy.
 - **Web Developer Instructor at BitWise Industries** (February 2022 - June 2023 2023): Led courses in web development, design, and computer literacy, covering a broad range of topics, including HTML, CSS3, JavaScript, React, and more.
 - **Junior Web Developer at Effycient** (December 2021 - March 2022): Collaborated on creating elegant, responsive web pages and applications, emphasizing accessibility and aesthetic appeal.
 - **I.T. Support Specialist at Clovis Community College** (February 2021 - December 2021): Managed help desk tickets and provided comprehensive technical support, honing my problem-solving skills in a dynamic environment.
