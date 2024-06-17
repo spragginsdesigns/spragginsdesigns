@@ -13,26 +13,59 @@ I'm a passionate web developer based in Fresno, CA, specializing in crafting use
 ---
 
 ## Professional Experience
-- **Web Developer and Marketing Specialist at Gelateria Del Centro** (March 2024 - Present): As a Full-Stack Developer at Gelateria Del Centro, I oversee our website's entire lifecycle, from design to deployment. I craft the front end with React, creating dynamic UIs and styling them with CSS. My tools include Figma, Sketch, and Photoshop for design and Visual Studio Code for coding. I also manage server-side operations to ensure robust SPA performance.
-Besides development, I lead our digital marketing, maintaining our social media and food delivery platforms to grow our brand and market presence, merging technical skills with marketing strategy.
-- **Web Developer Instructor at BitWise Industries** (February 2022 - June 2023 2023): Led courses in web development, design, and computer literacy, covering a broad range of topics, including HTML, CSS3, JavaScript, React, and more.
-- **Junior Web Developer at Effycient** (December 2021 - March 2022): Collaborated on creating elegant, responsive web pages and applications, emphasizing accessibility and aesthetic appeal.
-- **I.T. Support Specialist at Clovis Community College** (February 2021 - December 2021): Managed help desk tickets and provided comprehensive technical support, honing my problem-solving skills in a dynamic environment.
-- **YouTube Content Creator via Google L.L.C.** (2019-2020): Successfully managed a YouTube channel, focusing on design, branding, and SEO optimization.
+
+- **Full Stack Web Developer at Athlete Insights Pro** (April 2024 - Present):
+  - Sole Developer responsible for the complete development of the Athlete Insights Pro web application.
+  - Developed backend functionalities using Python, SQL, PostgreSQL, and Vercel PostgreSQL, with ExpressJS API routes integrated with NextJS.
+  - Designed and implemented the frontend using NextJS with Tailwind CSS.
+  - Integrated various APIs, including OpenAI's API, to enhance application features.
+  - Created wireframes and mockups using Figma.
+  - Applied performance tuning techniques to ensure efficient application performance.
+  - Coordinated project goals and deliverables, maintaining high standards and meeting deadlines.
+
+- **Web Developer & Marketing Specialist at Gelateria Del Centro** (July 2023 - April 2024):
+  - Led the end-to-end redesign and deployment of the Gelateria Del Centro website using HTML5, CSS3, JavaScript, and React.js.
+  - Implemented advanced responsive design techniques, significantly enhancing site accessibility and performance.
+  - Orchestrated a comprehensive SEO strategy overhaul that increased organic traffic by 40%.
+  - Created and managed digital marketing materials across multiple platforms, designing engaging graphics and executing targeted social media campaigns.
+  - Conducted bi-weekly analyses of website traffic and user engagement metrics to refine marketing strategies.
+
+- **Web Developer Instructor at BitWise Industries** (April 2022 - July 2023):
+  - Led introductory web development courses, covering HTML, CSS3, JavaScript, and React.
+  - Cultivated an engaging and inclusive classroom atmosphere.
+  - Achieved a 95% course completion rate, equipping over 200 participants with key web development skills.
 
 ## Education
-- **Clovis Community College** (2021): Associate in Science Degree in Information Systems: Web Design (Grade: 3.92 G.P.A)
+- **Clovis Community College** (2021): Associate in Science Degree in Information Systems: Web Design (GPA: 3.92)
 - **Clovis Community College** (2020): Certificate of Achievement in Information Systems: Web Design
+- **Fresno State College** (Expected Graduation Date: January 2026): Bachelor of Computer Science
 
 ## Skills & Proficiencies
-- **Programming Languages**: HTML5, CSS3, JavaScript, Python, React
-- **Frameworks/Libraries**: NodeJS, NPM, WordPress, jQuery
-- **System Administration**: Proficient in Windows and Linux
-- **Web Development**: Specialized in Cross-Browser Compatibility and Web Performance Optimization
-- **Tools & Technologies**: Version Control (Git), Web Accessibility, CSS Preprocessors, API Integration, Developer Tools
-- **Design & UI/UX**: Strong skills in Graphic Design (Adobe Creative Suite, Figma), User Interface Design
-- **Additional Skills**: SEO/Marketing, Mobile App Development, Testing & Debugging, Content Management Systems (CMS), Command Line/Shell
-- **Soft Skills**: Teamwork, Reliability, Strong Communication
+- **Programming Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript, Python
+- **Frameworks/Libraries**: React (including Hooks and Context API), NextJS, jQuery, SASS/LESS
+- **Web Technologies**: AJAX, JSON, RESTful Services / API, GraphQL, WebSockets
+- **Version Control and Development Tools**: Git, GitHub, GitLab, Bitbucket
+- **Build Tools & Package Managers**: Webpack, Gulp, NPM / Node.js, PNPM, Yarn
+- **Other Relevant Tools**: Figma, Adobe XD, Sketch, Photoshop, Chrome DevTools, Lighthouse
+- **Testing**: Jest, Puppeteer, Playwright, Selenium
+- **Responsive Design**: Media Queries, Flexbox, Grid System, Bootstrap, Tailwind CSS
+- **Accessibility (a11y) & SEO**: ARIA attributes, Semantic HTML, SEO best practices, Structured Data (JSON-LD)
+- **Performance Optimization**: Lazy loading, Code splitting, Using CDNs, Caching strategies, Minification & Compression
+- **DevOps**: Docker, Kubernetes, Travis CI
+- **Database**: SQL, PostgreSQL
+- **Security**: OAuth, NextAuth.js, JWT (JSON Web Tokens), SSL/TLS, Web Application Firewall (WAF)
+
+## Soft Skills
+- Problem Solving
+- Communication
+- Teamwork
+- Adaptability
+- Empathy
+- Time Management
+- Attention to Detail
+- Creativity
+- Patience
+- Continuous Learning
 
 ---
 
