@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Austin Spraggins
+![sd-logo-banner](https://github.com/user-attachments/assets/42aa2fdc-0c5c-4a4f-a91b-92ffe64d6a27)
 
 ## About Me
 I'm a passionate web developer based in Fresno, CA, specializing in crafting user-focused, scalable, and high-quality web solutions. With a strong foundation in various programming languages, technologies, and frameworks, I prioritize responsive design and implement top-notch security practices. Committed to continuous learning, I stay current with the latest industry trends to ensure my work remains at the forefront of technological innovation.
