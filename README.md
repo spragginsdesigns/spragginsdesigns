@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Austin Spraggins
+# Austin Spraggins | Spraggins Designs™
 ![sd-logo-banner](https://github.com/user-attachments/assets/42aa2fdc-0c5c-4a4f-a91b-92ffe64d6a27)
 
 ## About Me
