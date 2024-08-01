@@ -33,8 +33,6 @@ I'm always open to new challenges and collaborations that align with my values a
 
 </div>
 
-<a href="https://app.daily.dev/spragginsdesigns"><img src="https://api.daily.dev/devcards/v2/WdHsVq28uYQ65cigiPNOp.png?type=default&r=7jl" width="356" alt="Austin Spraggins's Dev Card"/></a>
-
 <details>
 <summary>📞 Get in Touch</summary>
 
@@ -42,6 +40,9 @@ I'm always open to new challenges and collaborations that align with my values a
 - 📧 Email: [austin@spragginsdesigns.xyz](mailto:austin@spragginsdesigns.xyz)
 
 </details>
+
+<a href="https://app.daily.dev/spragginsdesigns"><img src="https://api.daily.dev/devcards/v2/WdHsVq28uYQ65cigiPNOp.png?type=default&r=7jl" width="356" alt="Austin Spraggins's Dev Card"/></a>
+
 
 ---
 
