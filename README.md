@@ -51,7 +51,7 @@ I'm always open to new challenges and collaborations that align with my values a
 ### 🏋️ Tool 7 | Full Stack Web Developer
 *April 2024 - Present*
 
-At Context Pro AI, I've been instrumental in developing a cutting-edge web application that leverages artificial intelligence to provide deep insights into athlete performance and potential. This project has allowed me to showcase my full-stack development skills and my ability to integrate complex AI systems into user-friendly web applications.
+I've been instrumental in developing a cutting-edge web application that leverages artificial intelligence to provide deep insights into athlete performance and potential. This project has allowed me to showcase my full-stack development skills and my ability to integrate complex AI systems into user-friendly web applications.
 
 Key Achievements and Responsibilities:
 
