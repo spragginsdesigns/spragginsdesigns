@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-# Austin Spraggins: From Highways to Code Ways
-
 As a Full Stack Web Developer in Fresno, California, my journey is a testament to the power of passion and perseverance. I transitioned from life as a truck driver to pursue my love for technology, web programming, and cybersecurity. This career shift reflects my belief in continuous growth and seizing opportunities.
 
 ## What Drives Me
