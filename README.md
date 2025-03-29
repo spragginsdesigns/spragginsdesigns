@@ -1,201 +1,154 @@
-# 👨‍💻 Austin Spraggins | Spraggins Designs™
+# 👨‍💻 Austin Spraggins | CTO & AI-Focused Full Stack Engineer @ Context Pro AI
+
+<p align="center">
+  <a href="https://spragginsdesigns.xyz" target="_blank">
+    <img src="https://github.com/user-attachments/assets/42aa2fdc-0c5c-4a4f-a91b-92ffe64d6a27" alt="Spraggins Designs Logo" width="70%">
+    </a>
+</p>
+
+<p align="center">
+  <i>Architecting & Deploying Cutting-Edge AI Solutions with Next.js & Python</i>
+  <br/>
+  <i>Passionate about building polished, accessible, and user-centric web experiences from the ground up.</i>
+</p>
+
+<p align="center">
+  <a href="https://spragginsdesigns.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-spragginsdesigns.xyz-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a>
+  <a href="https://github.com/spragginsdesigns" target="_blank"><img src="https://img.shields.io/badge/GitHub-spragginsdesigns-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://codepen.io/spragginsdesigns" target="_blank"><img src="https://img.shields.io/badge/CodePen-spragginsdesigns-white?style=for-the-badge&logo=codepen" alt="CodePen"></a>
+  <a href="https://linkedin.com/in/spragginsdesigns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-spragginsdesigns-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+## 🚀 About Me: AI Innovator & Full Stack Architect
+
+Hey\! I'm Austin, CTO at Context Pro AI and a Full Stack Engineer based in Fresno, CA. I specialize in **architecting, building, and deploying cutting-edge AI solutions**. My passion lies in transforming complex data into actionable insights and creating intelligent applications that solve real-world problems.
+
+I leverage **AI not only in the products I build but also deeply within my development workflow** to enhance efficiency, precision, and innovation. With a background transition from truck driving to tech leadership, I bring a unique perspective focused on perseverance, continuous learning, and practical application.
+
+My core commitment is to build **polished, user-friendly, and highly accessible web applications from the ground up**, primarily using **Next.js (TypeScript/Tailwind)** for the frontend and **Python** for robust backend services and AI integration.
+
+## 🌱 Guiding Principles
+
+  * **AI-Driven Innovation:** Constantly exploring and implementing state-of-the-art AI techniques to push boundaries.
+  * **Accessibility First:** Building inclusive digital experiences is non-negotiable, inspired by my personal connection.
+  * **Pragmatic Engineering (KISS):** Architecting clean, simple, and effective solutions that are maintainable and scalable.
+  * **Lifelong Learning:** Actively pursuing my CS degree and staying ahead of the curve in AI and web development.
+  * **Faith & Family:** My Christian faith and role as a father guide my integrity, work ethic, and collaborative spirit.
+
+-----
+
+## 💼 Professional Experience: Leading AI Development
+
+### Context Pro AI LLC | CTO & Lead Software Engineer
+
+*April 2024 - Present*
+
+As CTO & Lead Software Engineer, I architect and lead the development of **Context Pro AI**, an innovative platform using **AI to revolutionize sports betting analysis**. We process diverse unstructured data (interviews, news, social media) to extract unique, actionable insights.
+
+**Key AI & Technical Contributions:**
+
+  * 🧠 **Architected & Implemented Core AI Pipeline:** Designed and built the system integrating **OpenAI API** for advanced NLP tasks, extracting key insights, sentiment, and context from vast amounts of text and audio data.
+  * 💻 **Full-Stack Development:** Led the creation of the platform using **Next.js 15 (TypeScript, Tailwind CSS, shadcn/ui)** for a dynamic frontend and **Python** for backend services, data processing, and AI model interaction.
+  * 🛠️ **AI-Enhanced Workflow:** Utilize AI tools (like Cursor AI) to accelerate development, improve code quality, and streamline testing processes.
+  * ☁️ **Infrastructure & Deployment:** Engineered backend infrastructure on **Linode (Ubuntu)** and managed **PostgreSQL** database (**Drizzle ORM**, Vercel Neon), deploying seamlessly via **Vercel**.
+  * 🔒 **Security & Scalability:** Implemented secure authentication (**JWT, bcrypt, NextAuth.js**) and payment processing (**Stripe**), ensuring a robust and scalable architecture.
+
+*This role embodies my passion for applying cutting-edge AI to create tangible value and sophisticated, user-friendly applications.*
+
+-----
+
+## 🎓 Education
+
+  * **Fresno State** (Expected Graduation: January 2026)
+      * Bachelor of Science, Computer Science *(Focus: AI & Software Engineering)*
+  * **Clovis Community College** (2021)
+      * Associate in Science, Information Systems: Web Design (GPA: 3.92)
+  * **Clovis Community College** (2020)
+      * Certificate of Achievement, Information Systems: Web Design
+
+-----
+
+## 🛠️ Tech Stack & Tools: AI & Full Stack
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/42aa2fdc-0c5c-4a4f-a91b-92ffe64d6a27" alt="Spraggins Designs Logo" width="100%">
-</div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Cursor_AI-FF6B00?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor AI"/> </div>
 
-## 🚀 About Me
+<details>
+<summary>🧰 More Skills & Areas of Interest</summary>
 
-As a Full Stack Web Developer in Fresno, California, my journey is a testament to the power of passion and perseverance. I transitioned from life as a truck driver to pursue my love for technology, web programming, and cybersecurity. This career shift reflects my belief in continuous growth and seizing opportunities.
+  * **AI/ML:** Natural Language Processing (NLP), Prompt Engineering, Vector Databases (Exploratory), Data Scraping/Processing
+  * **Frontend:** State Management, UI/UX Design (Figma), shadcn/ui, Accessibility (WCAG/ARIA)
+  * **Backend:** REST APIs, Microservices (Conceptual), ORMs, Authentication (JWT, OAuth)
+  * **Databases:** Schema Design, Performance Tuning (Vercel Neon), SQL
+  * **DevOps & Tools:** CI/CD, Linux (Ubuntu), pnpm, pip, Winget, Stripe API
+  * **Core Principles:** Clean Code (KISS), Testing (Jest/RTL), SEO, Security Best Practices
 
-## What Drives Me
+</details>
 
-- **Accessibility Champion**: With a blind mother, I'm deeply committed to creating web applications that are truly accessible to all.
-- **Lifelong Learner**: Currently pursuing a Computer Science degree at Fresno State, not just for the credential, but to keep my mind sharp and stay ahead in tech.
-- **Family-Oriented**: As a father of two, I lead by example, demonstrating how hard work, dedication, and passion can pave the way to a fulfilling career.
-- **Faith-Driven**: My Christian faith guides my life and work ethic. I aspire to leverage technology to enhance biblical understanding for all.
+-----
 
-## My Approach
+## ✨ Featured Project: AI in Action
 
-I specialize in crafting web applications that are robust, accessible, responsive, and visually appealing. My experience spans from local Fresno projects to global collaborations, always aiming to push the boundaries of what's possible on the web.
-
-Every project I undertake is an opportunity to make the digital world more inclusive and user-friendly. Whether it's integrating complex APIs or ensuring seamless accessibility, I approach each task with meticulous care and a user-centric mindset.
-
-I'm always open to new challenges and collaborations that align with my values and push me to grow. Let's connect and explore how we can use technology to make a positive impact, one line of code at a time.
 <div align="center">
+  <h3>Bet Vibes AI</h3>
+  <p><i>Showcasing the power of AI in sports analytics.</i></p>
+  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-spragginsdesigns.xyz-blue?style=for-the-badge&logo=google-chrome)](https://spragginsdesigns.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-spragginsdesigns-black?style=for-the-badge&logo=github)](https://github.com/spragginsdesigns)
-[![CodePen](https://img.shields.io/badge/CodePen-spragginsdesigns-white?style=for-the-badge&logo=codepen)](https://codepen.io/spragginsdesigns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-spragginsdesigns-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/spragginsdesigns)
+<a href="https://betvibes.ai" target="_blank">
+    <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/BetVibes_Official_Logo.png" alt="Context Pro AI Screenshot/Logo" width="50%">
+  </a>
+  <br/>
+  
 
+<a href="https://betvibes.ai" target="_blank"><strong>Learn More About Bet Vibes AI</strong></a>
+  <p><i>(Proprietary Technology - Repository is Private)</i></p>
 </div>
+
+-----
+
+## 🔥 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spragginsdesigns&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=spragginsdesigns&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+-----
+
+<div align="center">
+  <a href="https://app.daily.dev/spragginsdesigns"><img src="https://api.daily.dev/devcards/v2/WdHsVq28uYQ65cigiPNOp.png?type=default&r=7jl" width="356" alt="Austin Spraggins's Dev Card"/></a>
+</div>
+
+-----
 
 <details>
 <summary>📞 Get in Touch</summary>
 
-- 📱 Phone: 559-818-0467
-- 📧 Email: [austin@spragginsdesigns.xyz](mailto:austin@spragginsdesigns.xyz)
+  * **Email:** [austin@spragginsdesigns.xyz](mailto:spragginsdesigns@gmail.com)
+  * **LinkedIn:** [linkedin.com/in/spragginsdesigns](https://linkedin.com/in/spragginsdesigns)
+  * *(Open to discussing AI, web development, and potential collaborations)*
 
 </details>
 
-<a href="https://app.daily.dev/spragginsdesigns"><img src="https://api.daily.dev/devcards/v2/WdHsVq28uYQ65cigiPNOp.png?type=default&r=7jl" width="356" alt="Austin Spraggins's Dev Card"/></a>
-
-
----
-
-## 💼 Professional Journey
-
-### 🏋️ Project 7 | Full Stack Web Developer
-*April 2024 - Present*
-
-<!-- Introduction to the role and key project description -->
-<!-- I've been instrumental in developing a cutting-edge web application that leverages artificial intelligence to provide deep insights into athlete performance and potential. This project has allowed me to showcase my full-stack development skills and my ability to integrate complex AI systems into user-friendly web applications.
-
-<!-- Key achievements and responsibilities section -->
-<!-- Key Achievements and Responsibilities:
-
-<!-- Development of the Context Pro AI web application -->
-<!-- - 🚀 Spearheaded the development of the Context Pro AI web application from conception to deployment, demonstrating strong project management and end-to-end development capabilities. -->
-
-<!-- Backend infrastructure using Python and PostgreSQL -->
-<!-- - 🐍 Engineered a robust backend infrastructure using Python, incorporating advanced data processing and AI integration techniques. Utilized PostgreSQL for efficient data management and retrieval, ensuring scalability and performance.
-
-<!-- Frontend development using Next.js and Tailwind CSS -->
-<!-- - ⚛️ Crafted a responsive and intuitive frontend using Next.js 14, harnessing the power of React Server Components and the App Router for optimal performance and user experience. Implemented a sleek, modern UI with Tailwind CSS, ensuring a consistent and visually appealing design across all devices.
-
-<!-- Integration of OpenAI's API for NLP features -->
-<!-- - 🧠 Successfully integrated OpenAI's API to power advanced natural language processing features, enabling sophisticated analysis of athlete interviews and performance data.
-
-<!-- Modern development workflow with pnpm and Vercel -->
-<!-- - 🛠️ Implemented a modern development workflow, utilizing pnpm for efficient package management, and leveraging Vercel for seamless deployment and hosting.
-
-<!-- Secure authentication system using JWT and bcrypt -->
-<!-- - 🔒 Developed a secure authentication system using JSON Web Tokens (JWT) and bcrypt for password hashing, ensuring robust user data protection.
-
-<!-- Database schema design with Drizzle ORM -->
-<!-- - 📊 Designed and implemented a complex database schema using Drizzle ORM, facilitating efficient data modeling and migrations for the PostgreSQL database hosted on Vercel.
-
-<!-- UI/UX design process using Figma -->
-<!-- - 🎨 Led the UI/UX design process, creating wireframes and mockups in Figma, and translating them into pixel-perfect, accessible web interfaces.
-
-<!-- Performance optimization strategies -->
-<!-- - 🚀 Optimized application performance through efficient code splitting, lazy loading, and the strategic use of Server-Side Rendering (SSR) and Static Site Generation (SSG) in Next.js.
-
-<!-- Testing strategies with Jest and React Testing Library -->
-<!-- - 🧪 Implemented comprehensive testing strategies using Jest and React Testing Library, ensuring high code quality and reliability.
-
-<!-- Application performance monitoring and user engagement tracking -->
-<!-- - 📈 Utilized Vercel Analytics and custom logging solutions to monitor application performance and user engagement, driving data-informed improvements.
-
-<!-- Closing statement highlighting the impact of the project on the career -->
-<!-- This project has not only showcased my technical skills across the full stack but also demonstrated my ability to work with cutting-edge AI technologies and create innovative solutions in the sports analytics domain. It represents a significant step forward in my career as a developer, combining my passion for technology with real-world applications that have the potential to transform how we understand and analyze athletic performance. -->
-
-
----
-
-## 🎓 Education
-
-- 🖥️ **Fresno State College** (Expected Graduation: January 2026)
-  - Bachelor of Computer Science
-- 🎓 **Clovis Community College** (2021)
-  - Associate in Science, Information Systems: Web Design (GPA: 3.92)
-- 📜 **Clovis Community College** (2020)
-  - Certificate of Achievement, Information Systems: Web Design
-
----
-
-## 🛠️ Tech Toolbox
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 👋 Let's Connect & Innovate\!
 
-</div>
+Passionate about leveraging AI and modern web tech? Let's connect and explore how we can build the future, together.
 
-<details>
-<summary>🧰 More Skills</summary>
-
-- 🧪 Testing: Jest, Puppeteer, Playwright, Selenium
-- 🎨 Design: Responsive Design, Flexbox, Grid, Bootstrap, Tailwind CSS
-- 🔍 SEO & Accessibility: ARIA, Semantic HTML, Structured Data
-- 🚀 Performance: Lazy loading, Code splitting, CDNs, Caching
-- 🔒 Security: OAuth, NextAuth.js, JWT, SSL/TLS, Web Application Firewall
-
-</details>
-
----
-
-## 🌟 Soft Skills
-
-- 🧠 Problem Solving
-- 🗣️ Communication
-- 🤝 Teamwork
-- 🌊 Adaptability
-- 💖 Empathy
-- ⏰ Time Management
-- 🔍 Attention to Detail
-- 💡 Creativity
-- 🧘 Patience
-- 📚 Continuous Learning
-
----
-
-## 💼 Featured Project
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=spragginsdesigns&repo=Gelateria-Del-Centro-WebApp&theme=radical)](https://github.com/spragginsdesigns/Gelateria-Del-Centro-WebApp)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=spragginsdesigns&theme=radical&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spragginsdesigns&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📚 Always Learning
-
-I'm constantly sharpening my skills and exploring new territories. Right now, I'm diving deeper into Python and React, looking for ways to integrate them into some exciting new projects. Stay tuned!
-
----
-
-<div align="center">
-
-### 👋 Let's Connect!
-
-Feel free to reach out for collaborations or just a friendly chat about web dev and tech trends. I'm always up for a good coding conversation!
-
-[![GitHub followers](https://img.shields.io/github/followers/spragginsdesigns?label=Follow&style=social)](https://github.com/spragginsdesigns)
+[![GitHub followers](about:sanitized)](https://github.com/spragginsdesigns)
 
 </div>
