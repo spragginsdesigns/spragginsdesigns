@@ -1,8 +1,9 @@
-# 👨‍💻 Austin Spraggins | CTO & Senior Software Engineer — Context Pro AI LLC
+# Austin Spraggins
+CTO & Senior Software Engineer — LineCrush Inc
 
 <p align="center">
-  <a href="https://contextpro.ai" target="_blank" rel="noopener">
-    <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/ContextPro-Logo-2.png" alt="ContextPro AI Logo" width="200">
+  <a href="https://linecrush.com" target="_blank" rel="noopener">
+    <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush-Logo-2.png" alt="LineCrush Logo" width="200">
   </a>
 </p>
 
@@ -12,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://contextpro.ai" target="_blank"><img src="https://img.shields.io/badge/Website-contextpro.ai-111?style=for-the-badge&logo=google-chrome" alt="Website"></a>
+  <a href="https://linecrush.com" target="_blank"><img src="https://img.shields.io/badge/Website-linecrush.com-111?style=for-the-badge&logo=google-chrome" alt="Website"></a>
   <a href="https://github.com/spragginsdesigns" target="_blank"><img src="https://img.shields.io/badge/GitHub-spragginsdesigns-111?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://linkedin.com/in/spragginsdesigns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-spragginsdesigns-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
@@ -20,7 +21,7 @@
 ---
 
 ## 🚀 About
-CTO & senior software engineer leading AI product development at **Context Pro AI LLC**. I turn interviews, podcasts, X/Twitter, YouTube, and news into clean, decision-ready intel; favoring KISS architecture, strong a11y, and measurable performance.
+CTO & senior software engineer leading AI product development at **LineCrush Inc**. We turn interviews, podcasts, X/Twitter, YouTube, and news into clean, decision-ready intel; favoring KISS architecture, strong a11y, and measurable performance.
 
 **Core focus:** Next.js 15 (TypeScript/Tailwind) on the front; Python services for AI, data pipelines, and automation.
 
@@ -52,7 +53,7 @@ CTO & senior software engineer leading AI product development at **Context Pro A
 ---
 
 ## 🏗️ Experience
-**CTO & Senior Software Engineer — Context Pro AI LLC** *(Apr 2024 → present)*  
+**CTO & Senior Software Engineer — LineCrush Inc** *(Apr 2024 → present)*  
 - Architected multi-source AI pipelines for player/team context, matchup analysis, and reports  
 - Led full-stack build with Next.js 15 + Python services; shipped secure auth and Stripe billing  
 - Deployed on Vercel and Linode; Neon Postgres with Drizzle, Redis caching, rich logging/observability  
@@ -62,13 +63,13 @@ CTO & senior software engineer leading AI product development at **Context Pro A
 
 ## ✨ Featured
 <div align="center">
-  <a href="https://contextpro.ai" target="_blank" rel="noopener">
-    <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/ContextPro_Stylized.png" alt="ContextPro" width="420">
+  <a href="https://linecrush.com" target="_blank" rel="noopener">
+    <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush_Stylized_Text2.png" alt="LineCrush Stylized Text Logo" width="420">
   </a>
   <br/>
-  <a href="https://contextpro.ai" target="_blank"><strong>ContextPro</strong></a>
+  <a href="https://linecrush.com" target="_blank"><strong>LineCrush</strong></a>
   <br/>
-  <i>AI-assisted sports insights: player context, vibe reports, matchup analysis, and @ContextProBot.</i>
+  <i>AI-assisted sports insights: player context, vibe reports, matchup analysis, and @LineCrushBot.</i>
 </div>
 
 ---
