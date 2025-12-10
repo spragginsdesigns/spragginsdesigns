@@ -9,8 +9,8 @@
 
 <br/>
 
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1fWqE0b43F-8d9c24i-eFSsdaRemW5XLT)
-[![Resume DOCX](https://img.shields.io/badge/Resume-DOCX-FF6B6B?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://docs.google.com/document/d/1mSbVjDewMNUsbdVhrhNkW1Lp5rNLaVfW/export?format=docx)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/uc?export=download&id=1fWqE0b43F-8d9c24i-eFSsdaRemW5XLT](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.pdf))
+[![Resume DOCX](https://img.shields.io/badge/Resume-DOCX-FF6B6B?style=for-the-badge&logo=microsoft-word&logoColor=white)]([https://docs.google.com/document/d/1mSbVjDewMNUsbdVhrhNkW1Lp5rNLaVfW/export?format=docx](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.docx))
 
 
 
