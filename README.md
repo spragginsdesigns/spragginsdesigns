@@ -14,9 +14,13 @@
 
 
 
-<a href="https://linecrush.com" target="_blank">
-  <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush-Logo-2.png" alt="LineCrush Logo" width="180">
-</a>
+<img 
+  src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush_Simple_Logo.png"
+  width="180"
+  style="border-radius: 50%;"
+/>
+
+
 
 <br/>
 
