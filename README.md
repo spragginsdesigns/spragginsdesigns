@@ -9,6 +9,11 @@
 
 <br/>
 
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1fWqE0b43F-8d9c24i-eFSsdaRemW5XLT)
+[![Resume DOCX](https://img.shields.io/badge/Resume-DOCX-FF6B6B?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://docs.google.com/document/d/1mSbVjDewMNUsbdVhrhNkW1Lp5rNLaVfW/export?format=docx)
+
+
+
 <a href="https://linecrush.com" target="_blank">
   <img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush-Logo-2.png" alt="LineCrush Logo" width="180">
 </a>
