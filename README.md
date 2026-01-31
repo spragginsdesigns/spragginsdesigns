@@ -159,8 +159,7 @@ LineCrush processes interviews, podcasts, social media, and news — turning mes
 
 ## Education
 
-**B.S. Computer Science** — Fresno State *(In Progress, Expected 2026)*
-**A.S. Information Systems: Web Design** — Clovis Community College *(2021)* — GPA: 3.92
+**A.S. Information Systems: Web Design** — Clovis Community College *(2021)* — GPA: 3.92<br/>
 **Certificate, Information Systems: Web Design** — Clovis Community College *(2020)*
 
 ---
@@ -173,11 +172,17 @@ LineCrush processes interviews, podcasts, social media, and news — turning mes
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=spragginsdesigns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spragginsdesigns&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spragginsdesigns&theme=tokyonight&utcOffset=-8" alt="Productive Time" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spragginsdesigns&theme=tokyonight" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spragginsdesigns&theme=tokyonight" alt="Top Languages by Commit" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spragginsdesigns&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
