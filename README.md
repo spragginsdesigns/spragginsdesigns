@@ -169,19 +169,18 @@ LineCrush processes interviews, podcasts, social media, and news — turning mes
 
 ---
 
-## GitHub Stats
 
-<div align="center">
+  ## Coding Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spragginsdesigns&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <div align="center">
 
-<br/><br/>
+  <img src="https://wakatime.com/share/@spragginsdesigns/315cacb5-8d6f-4ea1-a60b-39fc0fc8a670.svg" alt="WakaTime coding activity" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=spragginsdesigns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
+  </div>
 
-</div>
+  ---
 
----
+  [![wakatime](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI.svg)](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI)
 
 <div align="center">
 
