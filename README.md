@@ -9,18 +9,14 @@
 
 <br/>
 
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/uc?export=download&id=1fWqE0b43F-8d9c24i-eFSsdaRemW5XLT](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.pdf))
-[![Resume DOCX](https://img.shields.io/badge/Resume-DOCX-FF6B6B?style=for-the-badge&logo=microsoft-word&logoColor=white)]([https://docs.google.com/document/d/1mSbVjDewMNUsbdVhrhNkW1Lp5rNLaVfW/export?format=docx](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.docx))
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.pdf)
+[![Resume DOCX](https://img.shields.io/badge/Resume-DOCX-FF6B6B?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://spraggins-designs.s3.us-east-1.amazonaws.com/resume/AustinSpraggins_Resume.docx)
 
-
-
-<img 
+<img
   src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush_Simple_Logo.png"
   width="180"
   style="border-radius: 50%;"
 />
-
-
 
 <br/>
 
@@ -169,18 +165,37 @@ LineCrush processes interviews, podcasts, social media, and news — turning mes
 
 ---
 
+## GitHub Stats
 
-  ## Coding Activity
+<div align="center">
 
-  <div align="center">
+<img src="https://streak-stats.demolab.com/?user=spragginsdesigns&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
 
-  <img src="https://wakatime.com/share/@spragginsdesigns/315cacb5-8d6f-4ea1-a60b-39fc0fc8a670.svg" alt="WakaTime coding activity" />
+<br/><br/>
 
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=spragginsdesigns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
 
-  ---
+<br/><br/>
 
-  [![wakatime](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI.svg)](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragginsdesigns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" />
+
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+<img src="https://wakatime.com/share/@spragginsdesigns/315cacb5-8d6f-4ea1-a60b-39fc0fc8a670.svg" alt="WakaTime coding activity" />
+
+<br/>
+
+[![wakatime](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI.svg)](https://wakatime.com/badge/github/spragginsdesigns/Context-Pro-AI)
+
+</div>
+
+---
 
 <div align="center">
 
