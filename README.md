@@ -3,6 +3,7 @@
 # Austin Spraggins
 
 ### Co-Founder, CTO & Senior Software Engineer
+> The Ultimate Linear Issue Crusher
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-spragginsdesigns.xyz-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.spragginsdesigns.xyz)
 [![LineCrush](https://img.shields.io/badge/LineCrush-linecrush.com-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTV2LTJsLTEwIDUtMTAtNXYyeiIvPjwvc3ZnPg==)](https://linecrush.com)
@@ -216,3 +217,4 @@ I'm open to contracts, consulting, and interesting technical challenges.
 *Fresno, California*
 
 </div>
+
