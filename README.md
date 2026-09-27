@@ -11,7 +11,7 @@ I build products end to end: interface, backend, data, AI, infrastructure, and r
 | [LineCrush](https://www.linecrush.com) | Live sports research platform with AI picks, signal search, betslip analysis, real-time data, native client work, browser extensions, and an agent delivery system | Next.js, TypeScript, Python, PostgreSQL, Redis, AWS, Vercel; [product overview](https://www.linecrush.com/about-us) |
 | [SureWord](https://sureword.app) | AI Bible study product with web, downloadable Android APK, and macOS clients; streaming study, Scripture retrieval, notes, and memory | [Source](https://github.com/spragginsdesigns/bible-ai-explorer), Next.js, Expo/React Native, SwiftUI, pgvector, Clerk, Stripe |
 | [Gunmetal Orbit](https://store.steampowered.com/app/4975430) | Commercial space combat and mining game released on Steam in September 2026 | Godot 4.7, GDScript, native builds |
-| [SaveALife CPR](https://github.com/spragginsdesigns/savealife-cpr) | Registration automation connecting Bookeo bookings to the Canadian Red Cross MyRC portal | Python, webhooks, Azure AD B2C, OData |
+| [SaveALife CPR](https://www.spragginsdesigns.xyz/#projects) | Registration automation connecting Bookeo bookings to the Canadian Red Cross MyRC portal | Private client work; Python, webhooks, Azure AD B2C, OData |
 | [Constrong](https://github.com/spragginsdesigns/constrong) | Responsive website for a concrete contractor | Next.js, TypeScript, Tailwind |
 
 ## How I work
