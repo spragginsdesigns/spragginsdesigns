@@ -13,6 +13,7 @@ I build products end to end: interface, backend, data, AI, infrastructure, and r
 | [Gunmetal Orbit](https://store.steampowered.com/app/4975430) | Commercial space combat and mining game released on Steam in September 2026 | Godot 4.7, GDScript, native builds |
 | [SaveALife CPR](https://www.spragginsdesigns.xyz/#projects) | Registration automation connecting Bookeo bookings to the Canadian Red Cross MyRC portal | Private client work; Python, webhooks, Azure AD B2C, OData |
 | [Constrong](https://github.com/spragginsdesigns/constrong) | Responsive website for a concrete contractor | Next.js, TypeScript, Tailwind |
+| [Two Cities Off Road](https://www.spragginsdesigns.xyz/#projects) | Responsive client review website for an off-road fabrication business, with a build gallery, sample catalog, filtering, and inquiry UI; ongoing work, not a live business launch | Private client project; Next.js 16, TypeScript, Bun |
 
 ## How I work
 
