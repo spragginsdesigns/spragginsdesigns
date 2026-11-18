@@ -30,6 +30,8 @@ I also built SureWord from a web prototype into a paid AI study app and took Gun
 
 ## How I work
 
+I build with Claude Code and Codex every day. I wrote the skills and workflows our fleet follows to investigate an issue, plan the change, implement it, verify it in the running product, review the diff, and ship. I design tool permissions around the work each agent needs to do. Our public ChatGPT MCP server exposes five read-only research tools, and sensitive decisions stay with a person.
+
 - **Applied AI:** agent orchestration, tool use and MCP servers, multi-model features with validation and fallbacks, retrieval and vector search, vision/OCR, review and proof gates.
 - **Product engineering:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, REST and real-time systems.
 - **Native and games:** SwiftUI, Kotlin/Jetpack Compose, React Native/Expo, Godot, Unreal Engine 5.
