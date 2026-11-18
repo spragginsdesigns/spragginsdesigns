@@ -15,7 +15,7 @@ I also built SureWord from a web prototype into a paid AI study app and took Gun
 | **LineCrush** | Sports research platform: Next.js/TypeScript web app, async Python data services, PostgreSQL, Redis, native SwiftUI iOS and Kotlin/Compose Android apps, and an official ChatGPT plugin on a hosted MCP server | [Web](https://www.linecrush.com) · [App Store](https://apps.apple.com/us/app/linecrush-sports-research/id6774968606) · [Google Play](https://play.google.com/store/apps/details?id=com.linecrush.android) · [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ad6200f5d308191826093af74536aa2) |
 | **Agent fleet and C2** | Built our engineering fleet and replaced Linear with C2. Migrated roughly 19,000 historical issues while keeping active work moving. | [Engineering write-up](https://www.spragginsdesigns.xyz/blog/2026-08-08-no-humans-in-the-merge-loop) |
 | **SureWord** | AI Bible study on one backend across web, Android, iPhone, iPad, and Mac: streaming study chat grounded in Scripture, pgvector retrieval, notes, and memory | [Web](https://sureword.app) · [Google Play](https://play.google.com/store/apps/details?id=com.spragginsdesigns.sureword) · [App Store](https://apps.apple.com/app/id6820260211) |
-| **Gunmetal Orbit** | Commercial Godot 4.7 space combat and mining game for Windows, macOS, and Linux/Steam Deck, with regular updates since its September 2026 release | [Steam](https://store.steampowered.com/app/4975430) |
+| **Gunmetal Orbit** | Revenue-generating Godot space combat and mining game for Windows, macOS, and Linux/Steam Deck, with regular updates since its September 2026 release | [Steam](https://store.steampowered.com/app/4975430) |
 
 ## Recent builds
 
