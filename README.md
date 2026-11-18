@@ -2,19 +2,19 @@
 
 **Co-Founder & CTO at LineCrush · Product engineering, applied AI, and developer tools**
 
-I started LineCrush in 2024 with a Python ingestion pipeline and a web app for searching player research. My co-founder Jay and I grew it into a revenue-generating business with native apps and a real-time research API. I built the first SwiftUI research cards, the Kotlin API client, and C2, the issue tracker our engineering team uses today.
+I built LineCrush's self-sustaining, self-improving AI engineering fleet and C2, our replacement for Linear. I also built both native apps from scratch and shipped them to the App Store and Google Play.
 
-WakaTime has tracked over **2,250 hours of editor activity on LineCrush alone**. I worked seven-day weeks during the build-out, some over 100 hours. A lot of that work went into making it easier for the next change to ship safely. Our Claude Code and Codex fleet now takes an issue through implementation, product checks and review. Since June 2026 it has completed more than 14,000 issues, over 10,700 with a commit link. [How the fleet works](https://www.spragginsdesigns.xyz/blog/2026-08-08-no-humans-in-the-merge-loop)
+I started the LineCrush codebase in 2024, and Jay and I grew it into a paid sports research product. I built the fleet around the way we already took an issue from investigation through release. It rarely needs a person to step in. As of November 17, 2026, the fleet had completed **14,111 jobs**, including **10,745 with a recorded commit link**. I led the move from Linear to C2 and brought over roughly **19,000 historical issues** while active work kept moving. [LineCrush engineering case study](https://www.spragginsdesigns.xyz/work/linecrush)
 
-I also built SureWord from a web prototype into a paid AI study app and took Gunmetal Orbit from its first playable loop to Steam in 67 days. I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/resume/Austin_Spraggins_Resume_2026.pdf)
+I also built SureWord from a web prototype into a paid AI study app and took Gunmetal Orbit from its first playable loop to Steam in 67 days. I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/resume)
 
 ## Shipped
 
 | Product | What it is | Where |
 | --- | --- | --- |
-| **LineCrush** | Sports research platform: Next.js/TypeScript web app, async Python data services, PostgreSQL, Redis, native SwiftUI iOS and Kotlin/Compose Android apps, and an official ChatGPT plugin on a hosted MCP server | [Web](https://www.linecrush.com) · [App Store](https://apps.apple.com/us/app/linecrush-sports-research/id6774968606) · [Google Play](https://play.google.com/store/apps/details?id=com.linecrush.android) · [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ad6200f5d308191826093af74536aa2) |
-| **Agent fleet and C2** | Built our engineering fleet and replaced Linear with C2. Migrated roughly 19,000 historical issues while keeping active work moving. | [Engineering write-up](https://www.spragginsdesigns.xyz/blog/2026-08-08-no-humans-in-the-merge-loop) |
-| **SureWord** | AI Bible study on one backend across web, Android, iPhone, iPad, and Mac: streaming study chat grounded in Scripture, pgvector retrieval, notes, and memory | [Web](https://sureword.app) · [Google Play](https://play.google.com/store/apps/details?id=com.spragginsdesigns.sureword) · [App Store](https://apps.apple.com/app/id6820260211) |
+| **Agent fleet and C2** | AI engineering fleet that takes work from investigation through release, with C2 tracking the issue, the work, and the evidence. | [Fleet and C2 case study](https://www.spragginsdesigns.xyz/work/linecrush#c2) |
+| **LineCrush** | Sports research platform with a Next.js and TypeScript web app, Python data services, PostgreSQL, Redis, and a ChatGPT integration built on MCP. I built and released the SwiftUI iOS app and the Kotlin and Jetpack Compose Android app. | [Web](https://www.linecrush.com) · [App Store](https://apps.apple.com/us/app/linecrush-sports-research/id6774968606) · [Google Play](https://play.google.com/store/apps/details?id=com.linecrush.android) · [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ad6200f5d308191826093af74536aa2) |
+| **SureWord** | AI Bible study on one backend across web, Android, iPhone, iPad, and Mac, with streaming study chat grounded in Scripture, pgvector retrieval, notes, and memory. | [Case study](https://www.spragginsdesigns.xyz/work/sureword) · [Web](https://sureword.app) · [Google Play](https://play.google.com/store/apps/details?id=com.spragginsdesigns.sureword) · [App Store](https://apps.apple.com/app/id6820260211) |
 | **Gunmetal Orbit** | Revenue-generating Godot space combat and mining game for Windows, macOS, and Linux/Steam Deck, with regular updates since its September 2026 release | [Steam](https://store.steampowered.com/app/4975430) |
 
 ## Recent builds
@@ -27,6 +27,7 @@ I also built SureWord from a web prototype into a paid AI study app and took Gun
 | [Cut Loose](https://spragginsdesigns.itch.io/cut-loose) | Third-person chase game built solo in four days for the Epic AI MegaJam | Unreal Engine 5.8, C++ |
 | [Clearline](https://github.com/spragginsdesigns/clearline) | Open-source site for publishing drug-checking results, built for harm reduction | Next.js, Bun |
 | [react-steam-deck](https://www.npmjs.com/package/react-steam-deck) | Zero-dependency Steam Deck frame component for React, on npm | TypeScript, SVG |
+| [tty7](https://github.com/l0ng-ai/tty7/pull/877) | Contributed a terminal fix that stops sending input after a session exits. | Merged upstream |
 
 ## How I work
 
