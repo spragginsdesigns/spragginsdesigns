@@ -12,7 +12,9 @@ The fleet rarely needs a person to step in. As of November 17, 2026, it had comp
 
 I created SureWord and shipped the web, Android, iPhone, iPad, and Mac apps myself. I built the Scripture retrieval that supplies exact verse text to the AI, the memory controls that let readers decide what carries into their next study, and one membership across Stripe, Apple, and Google Play. SureWord has a free plan and optional Pro. New accounts were up in the first 18 days of November 2026 compared with the same period in October. [SureWord engineering case study](https://www.spragginsdesigns.xyz/work/sureword)
 
-I took Gunmetal Orbit from its first playable loop to Steam in 67 days. I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/resume)
+I designed and developed Gunmetal Orbit in Godot and took it from first playable to a paid Steam launch in 67 days. I built the Steam release pipeline and a test that plays the exported game from launch through mining, combat, and banking ore. I shipped Windows and native Linux builds, added a signed and notarized macOS release, and fixed a controller bug I found on my own Steam Deck. Steamworks recorded paid sales and 152 lifetime wishlist additions as of November 19, 2026, up from 75 on September 17. [Gunmetal Orbit case study](https://www.spragginsdesigns.xyz/work/game-development#gunmetal-orbit)
+
+I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/resume)
 
 ## Shipped
 
@@ -21,7 +23,7 @@ I took Gunmetal Orbit from its first playable loop to Steam in 67 days. I'm base
 | **Agent fleet and C2** | AI engineering fleet that takes work from investigation through release, with C2 tracking the issue, the work, and the evidence. | [Fleet and C2 case study](https://www.spragginsdesigns.xyz/work/linecrush#c2) |
 | **LineCrush** | Sports research platform with a Next.js and TypeScript web app, Python data services, PostgreSQL, Redis, and a ChatGPT integration built on MCP. I wrote the foundations of the SwiftUI iOS and Kotlin/Jetpack Compose Android apps and took both through store review and release. | [Web](https://www.linecrush.com) · [App Store](https://apps.apple.com/us/app/linecrush-sports-research/id6774968606) · [Google Play](https://play.google.com/store/apps/details?id=com.linecrush.android) · [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ad6200f5d308191826093af74536aa2) |
 | **SureWord** | Personal Bible study with exact Scripture quotations, an offline KJV reader, synced notes, and user-controlled memory. I built the Next.js web app and backend, Expo/React Native Android app, and SwiftUI apps for iPhone, iPad, and Mac. Free plan with optional Pro. | [Case study](https://www.spragginsdesigns.xyz/work/sureword) · [Web](https://sureword.app) · [Google Play](https://play.google.com/store/apps/details?id=com.spragginsdesigns.sureword) · [App Store](https://apps.apple.com/app/id6820260211) |
-| **Gunmetal Orbit** | Revenue-generating Godot space combat and mining game for Windows, macOS, and Linux/Steam Deck, with regular updates since its September 2026 release | [Steam](https://store.steampowered.com/app/4975430) |
+| **Gunmetal Orbit** | I designed, developed, and released a commercial space-mining roguelite in Godot for Windows, Linux/Steam Deck, and Apple silicon Macs. I shipped Steam Cloud and 34 achievements, with over 100 post-launch Steam-channel version entries in the changelog. | [Steam](https://store.steampowered.com/app/4975430) · [Changelog](https://games.linecrush.com/gunmetal-orbit/changelog) |
 
 ## Recent builds
 
