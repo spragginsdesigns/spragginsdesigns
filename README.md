@@ -6,6 +6,8 @@ I'm an expert at directing AI agents. I know how to brief them properly, how to 
 
 LineCrush, SureWord, and Gunmetal Orbit all have real users and earn revenue. LineCrush and SureWord have free and paid plans.
 
+LineCrush is stable and [doesn't need me full time anymore](https://www.spragginsdesigns.xyz/blog/2026-11-19-linecrush-doesnt-need-me-full-time-anymore). What I love is building and learning new things, so I'm looking for my next full-time, hands-on engineering job on a team.
+
 I started the LineCrush codebase in 2024, and Jay and I grew it into a paid sports research product. I built real-time delivery for research and alerts, led the live auth migration across web and mobile, automated backend releases, and shipped our ChatGPT integration.
 
 I started both native apps from scratch and wrote their first month of code in SwiftUI and Kotlin with Jetpack Compose. I kept coding after launch, including updates to the research cards across all three clients and on-device answer narration on iOS. The fleet I built has written most of the later feature code. I own releases and store review for both apps.
