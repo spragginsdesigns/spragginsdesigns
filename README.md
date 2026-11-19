@@ -4,6 +4,8 @@
 
 I'm an expert at directing AI agents. I know how to brief them properly, how to review their work, and when to stop one that's headed the wrong way. I built LineCrush's self-sustaining, self-improving AI engineering fleet and C2, our replacement for Linear.
 
+LineCrush, SureWord, and Gunmetal Orbit all have real users and earn revenue. LineCrush and SureWord have free and paid plans.
+
 I started the LineCrush codebase in 2024, and Jay and I grew it into a paid sports research product. I built real-time delivery for research and alerts, led the live auth migration across web and mobile, automated backend releases, and shipped our ChatGPT integration.
 
 I started both native apps from scratch and wrote their first month of code in SwiftUI and Kotlin with Jetpack Compose. I kept coding after launch, including updates to the research cards across all three clients and on-device answer narration on iOS. The fleet I built has written most of the later feature code. I own releases and store review for both apps.
@@ -45,7 +47,25 @@ I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/re
 | [Cut Loose](https://spragginsdesigns.itch.io/cut-loose) | I directed the solo Epic AI MegaJam entry and took it from scaffold to Windows release in four days. My first full playthrough found four problems after 85 tests passed. | Unreal Engine 5.8, C++ |
 | [Clearline](https://github.com/spragginsdesigns/clearline) | Open-source site for publishing drug-checking results, built for harm reduction | Next.js, Bun |
 | [react-steam-deck](https://www.npmjs.com/package/react-steam-deck) | Zero-dependency Steam Deck frame component for React, on npm | TypeScript, SVG |
-| [tty7](https://github.com/l0ng-ai/tty7) | Three merged contributions. I added [Kimi Code integration](https://github.com/l0ng-ai/tty7/pull/694), a shortcut to [jump to the agent waiting longest](https://github.com/l0ng-ai/tty7/pull/1164), and a [terminal session-exit fix](https://github.com/l0ng-ai/tty7/pull/877). | Rust |
+| [tty7](https://github.com/l0ng-ai/tty7) | Three of my PRs merged upstream. I have five more open, including one draft. [See each PR's status](#tty7-pull-requests) | Rust |
+
+## tty7 pull requests
+
+**Merged upstream**
+
+- [#694 · Kimi Code support](https://github.com/l0ng-ai/tty7/pull/694). I added detection, status hooks, and session resume while preserving existing settings.
+- [#877 · Terminal session-exit fix](https://github.com/l0ng-ai/tty7/pull/877). I fixed input still being sent after a session exited.
+- [#1164 · Jump to the agent waiting longest](https://github.com/l0ng-ai/tty7/pull/1164). I built a shortcut that works across windows.
+
+**Open as of November 19, 2026**
+
+- [#1163 · Theme catalog](https://github.com/l0ng-ai/tty7/pull/1163)
+- [#1165 · Agent settings](https://github.com/l0ng-ai/tty7/pull/1165)
+- [#1166 · Pane names and title strips](https://github.com/l0ng-ai/tty7/pull/1166)
+- [#1167 · Reply to a waiting agent on mobile](https://github.com/l0ng-ai/tty7/pull/1167)
+- [#1174 · Mobile Projects launcher](https://github.com/l0ng-ai/tty7/pull/1174), open draft
+
+I published [react-steam-deck](https://www.npmjs.com/package/react-steam-deck) on npm and open-sourced MCP servers for [Neon Postgres](https://github.com/spragginsdesigns/neon-pg-mcp-server) and [Perplexity search](https://github.com/spragginsdesigns/perplexity-mcp-server).
 
 ## How I work
 
