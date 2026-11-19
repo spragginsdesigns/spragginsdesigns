@@ -25,6 +25,12 @@ I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/re
 | **SureWord** | Personal Bible study with exact Scripture quotations, an offline KJV reader, synced notes, and user-controlled memory. I built the Next.js web app and backend, Expo/React Native Android app, and SwiftUI apps for iPhone, iPad, and Mac. Free plan with optional Pro. | [Case study](https://www.spragginsdesigns.xyz/work/sureword) · [Web](https://sureword.app) · [Google Play](https://play.google.com/store/apps/details?id=com.spragginsdesigns.sureword) · [App Store](https://apps.apple.com/app/id6820260211) |
 | **Gunmetal Orbit** | I designed, developed, and released a commercial space-mining roguelite in Godot for Windows, Linux/Steam Deck, and Apple silicon Macs. I shipped Steam Cloud and 34 achievements, with over 100 post-launch Steam-channel version entries in the changelog. | [Steam](https://store.steampowered.com/app/4975430) · [Changelog](https://games.linecrush.com/gunmetal-orbit/changelog) |
 
+## More of the engineering
+
+- **LineCrush performance.** I profiled Picks in DevTools and cut GPU compositing layers from 360 to 80. One player headshot went from about 238 KB to 3 KB. The March 16, 2026 desktop production snapshot recorded a Vercel Real Experience Score of 100. [Performance case study](https://www.spragginsdesigns.xyz/work/linecrush#platform)
+- **LineCrush reliability.** I moved long-running Discord bot work into background workers and fixed a rollout regression in reply delivery. The follow-up passed all 39 database assertions across seven scenarios. I also built off-host backups. A restore recovered a Git checkout with six commits that had never been pushed. [Discord work](https://www.spragginsdesigns.xyz/work/linecrush#integrations) · [Recovery](https://www.spragginsdesigns.xyz/work/linecrush#production)
+- **SureWord notes and text scaling.** I made late AI edits respect newer drafts and kept formatting intact across editors. The Android release check recovered an AI edit after an immediate close and reopen. I also built text scaling across clients. The release checks covered narrow web layouts and doubled Android system text. [Notes and accessibility](https://www.spragginsdesigns.xyz/work/sureword#notes-accessibility)
+
 ## Recent builds
 
 | Project | What it does | Stack |
@@ -32,10 +38,13 @@ I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/re
 | [Ghostcount](https://github.com/spragginsdesigns/ghostcount) | Read-only backing check for the NEAR Intents contract. Its replay of a September 2026 incident flags the first unbacked balance 39.8 hours before the problem was identified. Every published claim has a runnable check. [Live dashboard](https://spragginsdesigns.github.io/ghostcount/) | JavaScript, Rust contract, NEAR RPC |
 | [Jury Swarm](https://github.com/spragginsdesigns/jury-swarm) | AI judges on their own NEAR accounts rank hackathon entries and stake on their rankings in an on-chain market. Published backtest on six past hackathons, including where it failed. [Live app](https://spragginsdesigns.github.io/jury-swarm/) | JavaScript, Rust contract, LLM APIs |
 | [Sideline](https://github.com/spragginsdesigns/sideline) | Fleet-built hackathon prototype for youth sports finances, with invoice and payout flows in the PayPal sandbox | Next.js, PayPal and webhooks |
-| [Cut Loose](https://spragginsdesigns.itch.io/cut-loose) | Third-person chase game built solo in four days for the Epic AI MegaJam | Unreal Engine 5.8, C++ |
+| [FileSteward AI](https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.15.0) | I built an Android file assistant that resumes interrupted work and asks for review when it can't tell whether a move finished. The source for this prerelease has tests for both. | Kotlin, Android |
+| [Two Cities Off Road](https://twocitiesoffroad.com/) | I built the live site and an editor the owner can use to update the catalog, gallery, and homepage. The editor shows when the saved version is live. [Live version](https://twocitiesoffroad.com/build.json) | Next.js, Cloudflare Workers and D1 |
+| [FormUp](https://github.com/spragginsdesigns/soccer-team-management) | I built a youth-team app with player assessments, schedules, messaging, coach-approved roles, and read-only parent and player portals. [Live web app](https://soccer-team-management-umber.vercel.app/) | Next.js, Convex |
+| [Cut Loose](https://spragginsdesigns.itch.io/cut-loose) | I directed the solo Epic AI MegaJam entry and took it from scaffold to Windows release in four days. My first full playthrough found four problems after 85 tests passed. | Unreal Engine 5.8, C++ |
 | [Clearline](https://github.com/spragginsdesigns/clearline) | Open-source site for publishing drug-checking results, built for harm reduction | Next.js, Bun |
 | [react-steam-deck](https://www.npmjs.com/package/react-steam-deck) | Zero-dependency Steam Deck frame component for React, on npm | TypeScript, SVG |
-| [tty7](https://github.com/l0ng-ai/tty7/pull/877) | Contributed a terminal fix that stops sending input after a session exits. | Merged upstream |
+| [tty7](https://github.com/l0ng-ai/tty7) | Three merged contributions. I added [Kimi Code integration](https://github.com/l0ng-ai/tty7/pull/694), a shortcut to [jump to the agent waiting longest](https://github.com/l0ng-ai/tty7/pull/1164), and a [terminal session-exit fix](https://github.com/l0ng-ai/tty7/pull/877). | Rust |
 
 ## How I work
 
