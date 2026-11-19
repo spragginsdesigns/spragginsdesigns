@@ -2,9 +2,13 @@
 
 **Co-Founder & CTO at LineCrush · Product engineering, applied AI, and developer tools**
 
-I'm an expert at directing AI agents. I know how to brief them properly, how to review their work, and when to stop one that's headed the wrong way. I built LineCrush's self-sustaining, self-improving AI engineering fleet and C2, our replacement for Linear. I started both native apps from scratch and wrote their first month of code. The fleet I built has written most of their feature code since. I own releases and store review for both apps.
+I'm an expert at directing AI agents. I know how to brief them properly, how to review their work, and when to stop one that's headed the wrong way. I built LineCrush's self-sustaining, self-improving AI engineering fleet and C2, our replacement for Linear.
 
-I started the LineCrush codebase in 2024, and Jay and I grew it into a paid sports research product. I built the fleet around the way we already took an issue from investigation through release. It rarely needs a person to step in. As of November 17, 2026, the fleet had completed **14,111 jobs**, including **10,745 with a recorded commit link**. I led the move from Linear to C2 and brought over roughly **19,000 historical issues** while active work kept moving. [LineCrush engineering case study](https://www.spragginsdesigns.xyz/work/linecrush)
+I started the LineCrush codebase in 2024, and Jay and I grew it into a paid sports research product. I built real-time delivery for research and alerts, led the live auth migration across web and mobile, automated backend releases, and shipped our ChatGPT integration.
+
+I started both native apps from scratch and wrote their first month of code in SwiftUI and Kotlin with Jetpack Compose. I kept coding after launch, including updates to the research cards across all three clients and on-device answer narration on iOS. The fleet I built has written most of the later feature code. I own releases and store review for both apps.
+
+The fleet rarely needs a person to step in. As of November 17, 2026, it had completed **14,111 jobs**, including **10,745 with a recorded commit link**. I led the move from Linear to C2 and brought over roughly **19,000 historical issues** while active work kept moving. [LineCrush engineering case study](https://www.spragginsdesigns.xyz/work/linecrush)
 
 I also built SureWord from a web prototype into a paid AI study app and took Gunmetal Orbit from its first playable loop to Steam in 67 days. I'm based in Fresno, California. [My resume](https://www.spragginsdesigns.xyz/resume)
 
